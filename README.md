@@ -1,7 +1,7 @@
 # Installation Guide
 Click "Clone or Download" and then "Download ZIP".
 
-Once Downloaded, press the Windows Key and R at the same time and type in %appdata%\.minecraft
+Once Downloaded, press the Windows Key and R at the same time and type in %appdata%\\.minecraft
 
 Create a folder called "mods" without quotations and open the ZIP that was Downloaded.
 
