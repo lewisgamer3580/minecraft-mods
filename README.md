@@ -21,4 +21,4 @@ Call the server LewisMC and Paste the Server Address into the box below.
 http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-installer-win.exe
 
 # Server Address
-IP: lewismc.uk.ms
+IP: lewismc.ddns.net
